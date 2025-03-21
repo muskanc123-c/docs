@@ -22,59 +22,28 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Video features",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets",
-              "essentials/testingFile"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+              "videoFeature/addingVoice",
+              "videoFeature/changeVideoLayout",
+              "videoFeature/cropping",
+              "videoFeature/editingTheScript",
+              "videoFeature/incorporatingMusic",
+              "videoFeature/integratingAvatars",
+              "videoFeature/zoomEffects"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Visual Effects",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "visualEffects/creatingIntro",
+              "visualEffects/settingBackgrounds"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    
+    ]
   },
   "logo": {
     "light": "/logo/saagasLogo.png",
