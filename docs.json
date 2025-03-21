@@ -32,6 +32,13 @@
               "videoFeature/integratingAvatars",
               "videoFeature/zoomEffects"
             ]
+          },
+          {
+            "group": "Visual Effects",
+            "pages": [
+              "visualEffects/creatingIntro",
+              "visualEffects/settingBackgrounds"
+            ]
           }
         ]
       }
